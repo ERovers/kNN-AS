@@ -33,3 +33,8 @@ Github repository containing general kNN-as algorithm scripts and experiments pe
 └── README.md
 
 ```
+## License and Acknowledgements
+
+Parts of this project are based on code from [MA_REAP](https://github.com/ShuklaGroup/MA_REAP), licensed under the MIT License.
+
+The original license is included in the [LICENSES](./LICENSES) directory.
