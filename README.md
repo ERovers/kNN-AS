@@ -1,6 +1,6 @@
 # kNN-AS
 
-Github repository containing general kNN-as algorithm script and experiments performed for artificial landscapes and Adenylate Kinase.
+Github repository containing general kNN-as algorithm scripts and experiments performed for artificial landscapes and Adenylate Kinase.
 
 ```bash
 .
